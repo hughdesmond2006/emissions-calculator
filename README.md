@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple project demonstrating responsive display of emissions data provided by a REST API
 
-## Available Scripts
+## How to Run
 
-In the project directory, you can run:
+In the project directory, to startup the client run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To startup the mock data server run:
 
-### `npm test`
+### `yarn server`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can edit db.json which is found in the root directory to simulate data changes.
+Open [http://localhost:5000/trips](http://localhost:5000/trips) to see the data in the browser.
 
-### `npm run build`
+To execute the tests run:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `yarn test`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Note!**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was completed in 4 hours, its quite rough and ready some things which were skipped in the interest of time include:
 
-### `npm run eject`
+- detailed commenting
+- extracting more inline styles to the chakra theme 
+- more tests
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

@@ -1,0 +1,58 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "European Quest",
+      "countryCount": 8,
+      "dayCount": 21,
+      "emissionsOffset": 0.81,
+      "rating": 4.7,
+      "imageURL": "https://images.unsplash.com/photo-1589868033293-a721123d31ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Autumn Roadtrip",
+      "countryCount": 2,
+      "dayCount": 24,
+      "emissionsOffset": 3.56,
+      "rating": 4.2,
+      "imageURL": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Diving adventure in Egypt",
+      "countryCount": 1,
+      "dayCount": 9,
+      "emissionsOffset": 6.92,
+      "rating": 3.5,
+      "imageURL": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 4,
+      "name": "European Quest 2",
+      "countryCount": 8,
+      "dayCount": 21,
+      "emissionsOffset": 0.81,
+      "rating": 4.7,
+      "imageURL": "https://images.unsplash.com/photo-1589868033293-a721123d31ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Autumn Roadtrip 2",
+      "countryCount": 2,
+      "dayCount": 24,
+      "emissionsOffset": 3.56,
+      "rating": 4.2,
+      "imageURL": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Diving adventure in Egypt 2",
+      "countryCount": 1,
+      "dayCount": 9,
+      "emissionsOffset": 6.92,
+      "rating": 3.5,
+      "imageURL": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    }
+  ]
+}
